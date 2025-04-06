@@ -123,4 +123,4 @@ Additionally, Zustand is used to create a global state so that the selected skip
 
 Lastly, the component is fully responsive, ensuring that it works seamlessly across devices. The layout adapts from a vertical arrangement on smaller screens (mobile/tablet) to a horizontal layout on larger screens (desktop). The buttons, typography, and images are dynamically adjusted using media queries, making the application touch-friendly and visually appealing on all screen sizes.
 
-# Deploy on Vercel
+# Deploy on Sandbox
