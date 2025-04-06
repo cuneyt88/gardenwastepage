@@ -122,5 +122,3 @@ The design also includes a dynamic image selection to reflect the chosen skip si
 Additionally, Zustand is used to create a global state so that the selected skip size and its details are accessible throughout the app. This ensures that no matter which part of the app the user navigates to, they will have consistent access to the skip details they've selected.
 
 Lastly, the component is fully responsive, ensuring that it works seamlessly across devices. The layout adapts from a vertical arrangement on smaller screens (mobile/tablet) to a horizontal layout on larger screens (desktop). The buttons, typography, and images are dynamically adjusted using media queries, making the application touch-friendly and visually appealing on all screen sizes.
-
-# Deploy on Sandbox
