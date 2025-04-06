@@ -45,59 +45,59 @@ SOLUTION
 
 # Libraries used
 
-**Zustand**
+### Zustand
 
-## High Performance
+#### High Performance
 
 Components re-render only when the specific piece of state they use changes, avoiding unnecessary updates common in Context API.
 
-## Flexible Architecture
+#### Flexible Architecture
 
 It allows creating multiple independent stores, making it easy to organize and modularize state logic.
 
-## No Provider Wrapping
+#### No Provider Wrapping
 
 Unlike Context API, Zustand doesn’t require wrapping components in a provider, simplifying the component tree.
 
-## Built-in TypeScript Support
+#### Built-in TypeScript Support
 
 Zustand integrates seamlessly with TypeScript, offering strong type safety without extra configuration.
 
-## Lightweight Bundle
+#### Lightweight Bundle
 
 At just ~1-2 kB, it adds negligible overhead to your app’s bundle size.
 
-## Shallow Learning Curve
+#### Shallow Learning Curve
 
 Its simple API makes it easier to learn and adopt compared to Redux or Recoil.
 
-## Community Trust
+#### Community Trust
 
 Widely adopted in the React ecosystem, backed by a strong community and maintained by reputable contributors.
 
-**MUI**
+### MUI
 
-## Consistent and Modern Design
+#### Consistent and Modern Design
 
 MUI is based on Google's Material Design language. This ensures that your applications have a consistent, modern, and user-friendly appearance.
 
-## Customizability
+#### Customizability
 
 MUI components are highly customizable in terms of themes and styles. You can easily modify colors, typography, sizes, and many other properties to fit your specific design requirements.
 
-## Responsive Design
+#### Responsive Design
 
 MUI components are designed to adapt automatically to various screen sizes and devices. This simplifies the creation of responsive web applications.
 
-## Strong Community Support
+#### Strong Community Support
 
 MUI has a large and active community. This provides a significant advantage when troubleshooting issues and seeking assistance.
 
-## Continuous Development:
+#### Continuous Development:
 
 MUI is under continuous development and receives regular updates. New features and improvements are frequently released.
 
-## React Integration:
+#### React Integration:
 
 MUI integrates seamlessly with React. It can be easily implemented in React projects, making it a popular choice among React developers.
 
